@@ -1,0 +1,12 @@
+name: dart_log_session
+description: Prepares a VS Code workspace so every Dart-Code log file option is enabled, then opens it ready to start a debug session.
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  path: ^1.9.0
+
+dev_dependencies:
+  test: ^1.25.0
